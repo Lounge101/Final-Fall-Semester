@@ -641,7 +641,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   coinAmountText: {fileID: 77306174}
-  replayButton: {fileID: 0}
+  replayButton: {fileID: 669598013}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
